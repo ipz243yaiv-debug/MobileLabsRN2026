@@ -19,6 +19,7 @@
 <img width="576" height="1280" alt="lab2p3" src="https://github.com/user-attachments/assets/bece2763-5d36-46b2-a7cf-25f90c11fa07" />
 <img width="576" height="1280" alt="lab2p4" src="https://github.com/user-attachments/assets/a60f1d03-9553-4c63-9831-7fb306845d7e" />
 **4. Контрольні запитання**
+
 Чим відрізняється FlatList від ScrollView?
     ScrollView рендерить  усі елементи списку одразу. FlatList рендерить тільки те, що користувач бачить на екрані.
     
