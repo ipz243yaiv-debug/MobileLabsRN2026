@@ -1,4 +1,4 @@
-<img width="483" height="1077" alt="зображення" src="https://github.com/user-attachments/assets/973bc5a8-77a9-4dea-8be9-5cba07e7c8cf" />*1.Інструкцію запуску:*
+*1.Інструкцію запуску:*
 1)Встановлення бібліотек:
 npx expo install react-native-gesture-handler
 @react-navigation/native
