@@ -5,8 +5,11 @@ npx expo install react-native-gesture-handler
 @react-navigation/native
 @react-navigation/bottom-tabs styled-components
 @expo/vector-icons
+
 2)Запуск серверу командою npx expo start
+
 3)Сканування на телефоні програмою Expo GO
+
 *2.Опис реалізованого функціоналу:*
 
 Головний екран:
