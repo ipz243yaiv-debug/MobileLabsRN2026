@@ -1,7 +1,6 @@
 *1.Інструкцію запуску:*
 
 1)Cтворення проекту командою: npx create-expo-app@latest --template;
-
 2)Встановлення бібліотеки для роботи з файлами командою: npx expo install expo-file-system;
 
 3)Написання коду;
