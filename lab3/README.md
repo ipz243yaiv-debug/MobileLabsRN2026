@@ -35,8 +35,14 @@ npx expo install react-native-gesture-handler
 
 *3.Скріншоти роботи застосунку:*
 
-<img width="485" height="1079" alt="зображення" src="https://github.com/user-attachments/assets/8d4119d7-18fa-4224-bac3-059274fb194e" /> <img width="484" height="1078" alt="зображення" src="https://github.com/user-attachments/assets/35778ba9-c8a9-44db-ac4e-09de5cd55be2" />
-<img width="483" height="1077" alt="зображення" src="https://github.com/user-attachments/assets/b71d5b60-623c-409a-9f1b-79cc4acd7251" /> <img width="481" height="1077" alt="зображення" src="https://github.com/user-attachments/assets/2d742fa5-87e0-4a0c-9441-0a9c3084c638" />
+<img width="485" height="1079" alt="зображення" src="https://github.com/user-attachments/assets/8d4119d7-18fa-4224-bac3-059274fb194e" />
+Рис. 1 Головний екран додатку
+<img width="484" height="1078" alt="зображення" src="https://github.com/user-attachments/assets/35778ba9-c8a9-44db-ac4e-09de5cd55be2" />
+Рис. 2 Вкладка "Завдання"
+<img width="483" height="1077" alt="зображення" src="https://github.com/user-attachments/assets/b71d5b60-623c-409a-9f1b-79cc4acd7251" /> 
+Рис. 3 Вкладка налаштування
+<img width="481" height="1077" alt="зображення" src="https://github.com/user-attachments/assets/2d742fa5-87e0-4a0c-9441-0a9c3084c638" />
+Рис. 4 Зміна теми в налаштуваннях
 
 *4.Висновки:*
 
