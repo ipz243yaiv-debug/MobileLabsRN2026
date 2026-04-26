@@ -8,9 +8,9 @@
 <img width="487" height="1026" alt="зображення" src="https://github.com/user-attachments/assets/9fc0ee78-cbd8-4093-8af4-60905d7e090d" />
 Рис. 1 Головний екран додатку 
 <img width="498" height="1023" alt="зображення" src="https://github.com/user-attachments/assets/ad006a37-1430-4a1b-9bdd-2b1c2088335d" />
-Рис. 2 
+Рис. 2 Вкладка "Галерея"
 <img width="501" height="1027" alt="зображення" src="https://github.com/user-attachments/assets/27511211-2503-45e9-bd62-ac0a7e598126" />
-Рис. 3
+Рис. 3 Вкладка 
 Вигляд додатка на телефоні:
 <img width="346" height="759" alt="зображення" src="https://github.com/user-attachments/assets/69d590b8-7e4c-4f0c-8cba-b4ff96419007" />
 <img width="343" height="758" alt="зображення" src="https://github.com/user-attachments/assets/782f4d2c-d4fb-4b32-b31d-bb87a91b42ba" />
