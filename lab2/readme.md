@@ -15,9 +15,13 @@
 
 **3. Скріншоти роботи застосунку**
 <img width="576" height="1280" alt="lab2p1" src="https://github.com/user-attachments/assets/fa828dfc-99aa-4a83-8983-e9a54341fda8" />
+Рис. 1 Головний екран додатку
 <img width="576" height="1280" alt="lab2p2" src="https://github.com/user-attachments/assets/8f4830e2-ba99-4b02-b234-48fe04101561" />
+Рис. 2 Перегляд деталей про кота
 <img width="576" height="1280" alt="lab2p3" src="https://github.com/user-attachments/assets/bece2763-5d36-46b2-a7cf-25f90c11fa07" />
+Рис. 3 Бічна панель контактів 
 <img width="576" height="1280" alt="lab2p4" src="https://github.com/user-attachments/assets/a60f1d03-9553-4c63-9831-7fb306845d7e" />
+Рис. 4 Бічна панель профілю
 **4. Контрольні запитання**
 
 Чим відрізняється FlatList від ScrollView?
